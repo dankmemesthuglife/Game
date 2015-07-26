@@ -1,1 +1,2 @@
 C:\Users\Patrick\Documents\GitHub\Game\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Game\Game\Game\bin\Debug\Game.exe.config
